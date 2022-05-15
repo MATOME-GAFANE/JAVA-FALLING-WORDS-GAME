@@ -1,6 +1,6 @@
 # Java Concurrency on Linux
 
-To run the assignment; just type the following command:
+To run the ; just type the following command ON COMMAND LINE:
 
 1. make clean to clean the classes files from the bin folder.
 2. make to build the java files.
